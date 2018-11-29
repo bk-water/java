@@ -7,6 +7,6 @@ package com.koabs.bytecode;
  */
 public class SecurityChecker {
     public static void checkSecurity() {
-        System.out.println("SecurityChecker.check");
+        System.out.println("SecurityChecker.check 99");
     }
 }
