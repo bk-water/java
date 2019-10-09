@@ -1,4 +1,4 @@
-package com.dubboxc.test.demo;
+package com.delay.message.demo;
 
 /**
  * @Author koabs

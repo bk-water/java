@@ -1,4 +1,4 @@
-package com.dubboxc.test.demo;
+package com.delay.message.demo;
 
 import com.alibaba.dubbo.common.URL;
 
